@@ -1,0 +1,14 @@
+
+
+Small 1/2" PVC
+9/16   inner dia       	Rad = 19/64"	 7.54063 mm
+27/32" outter dia	Rad = 27/64"	10.7156 mm
+
+
+Large 2" PVC
+2" 1/32 inner dia       Rad = 1  1/64"  25.7969 mm
+2" 13/32 outter dia     Rad = 1 13/64"  30.5594 mm
+
+Wires:
+2/8 coax
+1/8 wire
